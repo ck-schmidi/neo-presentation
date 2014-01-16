@@ -1,0 +1,1038 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.0"
+   viewBox="0 0 28500 8200"
+   preserveAspectRatio="xMidYMid"
+   fill-rule="evenodd"
+   id="svg2"
+   sodipodi:version="0.32"
+   inkscape:version="0.46"
+   width="2104.7244"
+   height="751.05377"
+   sodipodi:docname="neo_Ebene_3.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   sodipodi:docbase="/home/ben/neo/grafik/tastatur2d-svg">
+  <metadata
+     id="metadata2698">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <cc:license
+           rdf:resource="http://creativecommons.org/licenses/GPL/2.0/" />
+        <dc:title>NEO Layout</dc:title>
+        <dc:description>Ebenen 1,2,3,5 des NEO-Layouts</dc:description>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Benjamin Kellermann</dc:title>
+          </cc:Agent>
+        </dc:creator>
+      </cc:Work>
+      <cc:License
+         rdf:about="http://creativecommons.org/licenses/GPL/2.0/">
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Reproduction" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/Distribution" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/Notice" />
+        <cc:permits
+           rdf:resource="http://web.resource.org/cc/DerivativeWorks" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/ShareAlike" />
+        <cc:requires
+           rdf:resource="http://web.resource.org/cc/SourceCode" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:window-height="1019"
+     inkscape:window-width="1280"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     guidetolerance="10.0"
+     gridtolerance="10.0"
+     objecttolerance="10.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base"
+     inkscape:zoom="0.56111861"
+     inkscape:cx="1052.3622"
+     inkscape:cy="375.52689"
+     inkscape:window-x="0"
+     inkscape:window-y="2"
+     inkscape:current-layer="svg2"
+     width="2104.7244px"
+     height="650px"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     showgrid="false" />
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 375.52689 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="2104.7244 : 375.52689 : 1"
+       inkscape:persp3d-origin="1052.3622 : 250.35126 : 1"
+       id="perspective450" />
+  </defs>
+  <path
+     style="fill:#b3b3b3;stroke:none;visibility:visible"
+     d="M 0,-984.9966 L 28500,-984.9966 L 28500,9184.9966 L 0,9184.9966 L 0,-984.9966 z "
+     id="path452" />
+  <g
+     id="g2599">
+    <path
+       id="path609"
+       d="M 5972,-734.99662 L 7719,-734.99662 L 7719,1065.0038 L 5972,1065.0038 L 5972,-734.99662 z "
+       style="fill:#e2bb67;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path465"
+       d="M 210,-734.99662 L 1956,-734.99662 L 1956,1065.0038 L 210,1065.0038 L 210,-734.99662 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path513"
+       d="M 2130,-734.99662 L 3877,-734.99662 L 3877,1065.0038 L 2130,1065.0038 L 2130,-734.99662 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path561"
+       d="M 4051,-734.99662 L 5798,-734.99662 L 5798,1065.0038 L 4051,1065.0038 L 4051,-734.99662 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path649"
+       d="M 7895,-734.99662 L 9641,-734.99662 L 9641,1065.0038 L 7895,1065.0038 L 7895,-734.99662 z "
+       style="fill:#88da43;fill-opacity:1;stroke:#4f601f;stroke-width:13.54096508;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible" />
+    <path
+       id="path697"
+       d="M 9816,-734.99662 L 11562,-734.99662 L 11562,1065.0038 L 9816,1065.0038 L 9816,-734.99662 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path745"
+       d="M 11737,-734.99662 L 13483,-734.99662 L 13483,1065.0038 L 11737,1065.0038 L 11737,-734.99662 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path785"
+       d="M 13658,-734.99662 L 15404,-734.99662 L 15404,1065.0038 L 13658,1065.0038 L 13658,-734.99662 z "
+       style="fill:#e5d43a;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
+    <path
+       id="path825"
+       d="M 15579,-734.99662 L 17325,-734.99662 L 17325,1065.0038 L 15579,1065.0038 L 15579,-734.99662 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path865"
+       d="M 17499,-734.99662 L 19246,-734.99662 L 19246,1065.0038 L 17499,1065.0038 L 17499,-734.99662 z "
+       style="fill:#88da43;fill-opacity:1;stroke:#4f601f;stroke-width:13.54096508;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible" />
+    <path
+       id="path905"
+       d="M 19420,-734.99662 L 21167,-734.99662 L 21167,1065.0038 L 19420,1065.0038 L 19420,-734.99662 z "
+       style="fill:#e2bb67;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path945"
+       d="M 21341,-734.99662 L 23088,-734.99662 L 23088,1065.0038 L 21341,1065.0038 L 21341,-734.99662 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path993"
+       d="M 23264,-734.99662 L 25010,-734.99662 L 25010,1065.0038 L 23264,1065.0038 L 23264,-734.99662 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1041"
+       d="M 3011,1232.0038 L 4757,1232.0038 L 4757,3032.0038 L 3011,3032.0038 L 3011,1232.0038 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1085"
+       d="M 5804,3032.0038 L 4931,3032.0038 L 4931,1232.0038 L 6678,1232.0038 L 6678,3032.0038 L 5804,3032.0038"
+       style="fill:#e2bb67;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1121"
+       d="M 6852,1232.0038 L 8599,1232.0038 L 8599,3032.0038 L 6852,3032.0038 L 6852,1232.0038 z "
+       style="fill:#88da43;fill-opacity:1;stroke:#4f601f;stroke-width:13.54096508;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible" />
+    <path
+       id="path1157"
+       d="M 8773,1232.0038 L 10520,1232.0038 L 10520,3032.0038 L 8773,3032.0038 L 8773,1232.0038 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1193"
+       d="M 10696,1232.0038 L 12442,1232.0038 L 12442,3032.0038 L 10696,3032.0038 L 10696,1232.0038 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1229"
+       d="M 12617,1232.0038 L 14363,1232.0038 L 14363,3032.0038 L 12617,3032.0038 L 12617,1232.0038 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1265"
+       d="M 14538,1232.0038 L 16284,1232.0038 L 16284,3032.0038 L 14538,3032.0038 L 14538,1232.0038 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1301"
+       d="M 16459,1232.0038 L 18205,1232.0038 L 18205,3032.0038 L 16459,3032.0038 L 16459,1232.0038 z "
+       style="fill:#88da43;fill-opacity:1;stroke:#4f601f;stroke-width:13.54096549;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible" />
+    <path
+       id="path1337"
+       d="M 18380,1232.0038 L 20126,1232.0038 L 20126,3032.0038 L 18380,3032.0038 L 18380,1232.0038 z "
+       style="fill:#e2bb67;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1373"
+       d="M 20300,1232.0038 L 22047,1232.0038 L 22047,3032.0038 L 20300,3032.0038 L 20300,1232.0038 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1409"
+       d="M 22221,1232.0038 L 23968,1232.0038 L 23968,3032.0038 L 22221,3032.0038 L 22221,1232.0038 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1449"
+       d="M 24142,1232.0038 L 25889,1232.0038 L 25889,3032.0038 L 24142,3032.0038 L 24142,1232.0038 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1489"
+       d="M 3412,3198.0038 L 5158,3198.0038 L 5158,4998.0037 L 3412,4998.0037 L 3412,3198.0038 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1525"
+       d="M 5332,3198.0038 L 7079,3198.0038 L 7079,4998.0037 L 5332,4998.0037 L 5332,3198.0038 z "
+       style="fill:#e2bb67;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1561"
+       d="M 7253,3198.0038 L 9000,3198.0038 L 9000,4998.0037 L 7253,4998.0037 L 7253,3198.0038 z "
+       style="fill:#88da43;fill-opacity:1;stroke:#4f601f;stroke-width:13.54096508;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible" />
+    <path
+       id="path1597"
+       d="M 11097,3198.0038 L 12843,3198.0038 L 12843,4998.0037 L 11097,4998.0037 L 11097,3198.0038 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1633"
+       d="M 13018,3198.0038 L 14764,3198.0038 L 14764,4998.0037 L 13018,4998.0037 L 13018,3198.0038 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1669"
+       d="M 16860,3198.0038 L 18606,3198.0038 L 18606,4998.0037 L 16860,4998.0037 L 16860,3198.0038 z "
+       style="fill:#88da43;fill-opacity:1;stroke:#4f601f;stroke-width:13.54096549;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible" />
+    <path
+       id="path1705"
+       d="M 18781,3198.0038 L 20527,3198.0038 L 20527,4998.0037 L 18781,4998.0037 L 18781,3198.0038 z "
+       style="fill:#e2bb67;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1741"
+       d="M 20701,3198.0038 L 22448,3198.0038 L 22448,4998.0037 L 20701,4998.0037 L 20701,3198.0038 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1777"
+       d="M 22622,3198.0038 L 24369,3198.0038 L 24369,4998.0037 L 22622,4998.0037 L 22622,3198.0038 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1813"
+       d="M 24543,3198.0038 L 26290,3198.0038 L 26290,4998.0037 L 24543,4998.0037 L 24543,3198.0038 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1853"
+       d="M 2142.181,5165.0035 L 3888.181,5165.0035 L 3888.181,6965.0036 L 2142.181,6965.0036 L 2142.181,5165.0035 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1893"
+       d="M 4062.181,5165.0035 L 5809.181,5165.0035 L 5809.181,6965.0036 L 4062.181,6965.0036 L 4062.181,5165.0035 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1929"
+       d="M 5983.181,5165.0035 L 7730.181,5165.0035 L 7730.181,6965.0036 L 5983.181,6965.0036 L 5983.181,5165.0035 z "
+       style="fill:#e2bb67;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path1965"
+       d="M 7904.181,5165.0035 L 9651.181,5165.0035 L 9651.181,6965.0036 L 7904.181,6965.0036 L 7904.181,5165.0035 z "
+       style="fill:#88da43;fill-opacity:1;stroke:#4f601f;stroke-width:13.54096508;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible" />
+    <path
+       id="path2001"
+       d="M 9827.1807,5165.0035 L 11573.18,5165.0035 L 11573.18,6965.0036 L 9827.1807,6965.0036 L 9827.1807,5165.0035 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path2037"
+       d="M 11748.18,5165.0035 L 13494.18,5165.0035 L 13494.18,6965.0036 L 11748.18,6965.0036 L 11748.18,5165.0035 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path2073"
+       d="M 13669.18,5165.0035 L 15415.18,5165.0035 L 15415.18,6965.0036 L 13669.18,6965.0036 L 13669.18,5165.0035 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path2109"
+       d="M 15590.18,5165.0035 L 17336.18,5165.0035 L 17336.18,6965.0036 L 15590.18,6965.0036 L 15590.18,5165.0035 z "
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path2145"
+       d="M 17511.18,5165.0035 L 19257.18,5165.0035 L 19257.18,6965.0036 L 17511.18,6965.0036 L 17511.18,5165.0035 z "
+       style="fill:#88da43;fill-opacity:1;stroke:#4f601f;stroke-width:13.54096549;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;visibility:visible" />
+    <path
+       id="path2185"
+       d="M 19431.18,5165.0035 L 21178.18,5165.0035 L 21178.18,6965.0036 L 19431.18,6965.0036 L 19431.18,5165.0035 z "
+       style="fill:#e2bb67;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       id="path2225"
+       d="M 21352.18,5165.0035 L 23099.18,5165.0035 L 23099.18,6965.0036 L 21352.18,6965.0036 L 21352.18,5165.0035 z "
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 9174,3198.0038 L 10921,3198.0038 L 10921,4998.0037 L 9174,4998.0037 L 9174,3198.0038 z "
+       id="path2265"
+       style="fill:#e5d43a;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 14939,3198.0038 L 16685,3198.0038 L 16685,4998.0037 L 14939,4998.0037 L 14939,3198.0038 z "
+       id="path2313"
+       style="fill:#e5d43a;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none;fill-opacity:1" />
+    <path
+       d="M 226.54577,5165.0035 L 1974.2376,5165.0035 L 1974.2376,6965.0036 L 226.54577,6965.0036 L 226.54577,5165.0035 z "
+       id="path2365"
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 210,3195.0038 L 3270,3195.0038 L 3270,4995.0037 L 210,4995.0037 L 210,3195.0038 z "
+       id="path2427"
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 25164,-734.99662 L 28324,-734.99662 L 28324,1065.0038 L 25164,1065.0038 L 25164,-734.99662 z "
+       id="path2489"
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 210,1235.0038 L 2860,1235.0038 L 2860,3035.0038 L 210,3035.0038 L 210,1235.0038 z "
+       id="path2523"
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 23253.214,5165.018 L 28292.211,5165.018 L 28292.211,6964.9891 L 23253.214,6964.9891 L 23253.214,5165.018 z "
+       id="path2599"
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 26458,4994.0037 L 26458,3023.0038 L 26035,3023.0038 L 26035,1224.0038 L 28297,1224.0038 L 28297,4994.0037 L 26458,4994.0037 z "
+       id="path2661"
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 216,7135.0032 L 2314.8497,7135.0032 L 2314.8497,8935.0033 L 216,8935.0033 L 216,7135.0032 z "
+       id="path6813"
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 2503.3538,7135.0032 L 4602.2035,7135.0032 L 4602.2035,8935.0033 L 2503.3538,8935.0033 L 2503.3538,7135.0032 z "
+       id="path17793"
+       style="fill:#d9de43;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 4801.3318,7135.0032 L 6900.1815,7135.0032 L 6900.1815,8935.0033 L 4801.3318,8935.0033 L 4801.3318,7135.0032 z "
+       id="path17795"
+       style="fill:#d9de43;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 7118.4599,7135.0032 L 18963.59,7135.0032 L 18963.59,8935.0033 L 7118.4599,8935.0033 L 7118.4599,7135.0032 z "
+       id="path17797"
+       style="fill:#d9de43;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 19182.844,7135.0032 L 21292.576,7135.0032 L 21292.576,8935.0033 L 19182.844,8935.0033 L 19182.844,7135.0032 z "
+       id="path17799"
+       style="fill:#d9de43;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 21509.921,7135.0032 L 23619.653,7135.0032 L 23619.653,8935.0033 L 21509.921,8935.0033 L 21509.921,7135.0032 z "
+       id="path17801"
+       style="fill:#d9de43;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 23853.158,7135.0032 L 25962.89,7135.0032 L 25962.89,8935.0033 L 23853.158,8935.0033 L 23853.158,7135.0032 z "
+       id="path17803"
+       style="fill:#d9de43;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+    <path
+       d="M 26182.479,7135.0032 L 28292.211,7135.0032 L 28292.211,8935.0033 L 26182.479,8935.0033 L 26182.479,7135.0032 z "
+       id="path17805"
+       style="fill:#76ccb4;fill-opacity:1;stroke:#4f601f;visibility:visible;stroke-opacity:1;stroke-width:13.54096549;stroke-miterlimit:4;stroke-dasharray:none" />
+  </g>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text493"
+     y="-984.99658">
+    <tspan
+       y="663.00354"
+       id="tspan495" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text541"
+     y="-984.99658">
+    <tspan
+       y="663.00354"
+       id="tspan543" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text589"
+     y="-984.99658">
+    <tspan
+       y="663.00354"
+       id="tspan591" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text677"
+     y="-984.99658">
+    <tspan
+       y="663.00354"
+       id="tspan679" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text725"
+     y="-984.99658">
+    <tspan
+       y="663.00354"
+       id="tspan727" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text973"
+     y="-984.99658">
+    <tspan
+       y="663.00354"
+       id="tspan975" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1021"
+     y="-984.99658">
+    <tspan
+       y="663.00354"
+       id="tspan1023" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1061"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1063" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1069"
+     y="964.26123"
+     x="19760.801">
+    <tspan
+       x="23739.801"
+       y="4608.2598"
+       id="tspan1071">@</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1101"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1103" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1109"
+     y="-1016.1159"
+     x="54.163857">
+    <tspan
+       x="6135.1641"
+       y="2627.8828"
+       id="tspan1111">_</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1141"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1143" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1145"
+     y="-957.45758"
+     x="135.40965">
+    <tspan
+       x="8177.4102"
+       y="2686.541"
+       id="tspan1147">[</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1177"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1179" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1181"
+     y="-957.45758"
+     x="189.5735">
+    <tspan
+       x="10073.574"
+       y="2686.541"
+       id="tspan1183">]</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1213"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1215" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1217"
+     y="-974.80725"
+     x="162.49158">
+    <tspan
+       x="11891.492"
+       y="2669.1914"
+       id="tspan1219">^</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1249"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1251" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1253"
+     y="-928.95465"
+     x="270.81927">
+    <tspan
+       x="13998.82"
+       y="2715.0439"
+       id="tspan1255">!</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1285"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1287" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1289"
+     y="-957.73297"
+     x="8.2365784e-07">
+    <tspan
+       x="15666"
+       y="2686.2656"
+       id="tspan1291">&lt;</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1321"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1323" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1325"
+     y="-957.73297"
+     x="54.16386">
+    <tspan
+       x="17624.164"
+       y="2686.2656"
+       id="tspan1327">&gt;</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1357"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1359" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1361"
+     y="-958.00836"
+     x="-27.08193">
+    <tspan
+       x="19501.918"
+       y="2685.9902"
+       id="tspan1363">=</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2173"
+     y="-4833.2314"
+     x="2676.2788">
+    <tspan
+       x="21480.279"
+       y="2714.7686"
+       id="tspan2175">&amp;</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1393"
+     y="-984.99658">
+    <tspan
+       y="2659.002"
+       id="tspan1395" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1509"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1511" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1513"
+     y="-971.85876"
+     x="81.245789">
+    <tspan
+       x="4589.2461"
+       y="4638.1396"
+       id="tspan1515">\</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1545"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1547" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1549"
+     y="-971.85876"
+     x="135.40965">
+    <tspan
+       x="6642.4102"
+       y="4638.1396"
+       id="tspan1551">/</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1581"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1583" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1585"
+     y="-983.01208"
+     x="216.65543">
+    <tspan
+       x="8437.6562"
+       y="4626.9863"
+       id="tspan1587">{</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1617"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1619" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1621"
+     y="-861.28943"
+     x="135.40965">
+    <tspan
+       x="12313.41"
+       y="4748.709"
+       id="tspan1623">*</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1653"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1655" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1657"
+     y="-941.97888"
+     x="135.40965">
+    <tspan
+       x="14232.41"
+       y="4668.0195"
+       id="tspan1659">?</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1689"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1691" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1693"
+     y="-974.47498"
+     x="216.65543">
+    <tspan
+       x="18121.656"
+       y="4635.5234"
+       id="tspan1695">)</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1725"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1727" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1729"
+     y="-996.78168"
+     x="135.40965">
+    <tspan
+       x="20012.41"
+       y="4613.2168"
+       id="tspan1731">-</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1761"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1763" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1765"
+     y="-1005.4565"
+     x="135.40965">
+    <tspan
+       x="21933.41"
+       y="4604.542"
+       id="tspan1767">:</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1797"
+     y="-984.99658">
+    <tspan
+       y="4625.002"
+       id="tspan1799" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1913"
+     y="-984.99658">
+    <tspan
+       y="6592.002"
+       id="tspan1915" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1949"
+     y="-984.99658">
+    <tspan
+       y="6592.002"
+       id="tspan1951" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1953"
+     y="-880.66211"
+     x="-270.81924">
+    <tspan
+       x="7183.1797"
+       y="6696.3369"
+       id="tspan1955">$</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1985"
+     y="-984.99658">
+    <tspan
+       y="6592.002"
+       id="tspan1987" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1989"
+     y="-904.4834"
+     x="81.245796">
+    <tspan
+       x="9277.2461"
+       y="6672.5156"
+       id="tspan1991">|</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2021"
+     y="-984.99658">
+    <tspan
+       y="6592.002"
+       id="tspan2023" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2025"
+     y="-851.05762"
+     x="-6028.6299">
+    <tspan
+       x="5165.3701"
+       y="6725.9414"
+       id="tspan2027">#</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2057"
+     y="-984.99658">
+    <tspan
+       y="6592.002"
+       id="tspan2059" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2061"
+     y="-873.17316"
+     x="-135.40965">
+    <tspan
+       x="13011.59"
+       y="6703.8262"
+       id="tspan2063">`</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2093"
+     y="-984.99658">
+    <tspan
+       y="6592.002"
+       id="tspan2095" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2097"
+     y="-876.66895"
+     x="-170.46991">
+    <tspan
+       x="14859.529"
+       y="6700.3301"
+       id="tspan2099">+</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2129"
+     y="-984.99658">
+    <tspan
+       y="6592.002"
+       id="tspan2131" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2133"
+     y="-848.16602"
+     x="-270.81924">
+    <tspan
+       x="16680.18"
+       y="6728.833"
+       id="tspan2135">%</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2213"
+     y="-884.10919"
+     x="-135.40965">
+    <tspan
+       x="20603.59"
+       y="6663.8945"
+       id="tspan2215">'</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2245"
+     y="-984.99658">
+    <tspan
+       y="6592.002"
+       id="tspan2247" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2249"
+     y="-913.10449"
+     x="-3918.166">
+    <tspan
+       x="18792.834"
+       y="6663.8945"
+       id="tspan2251">&quot;</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2285"
+     y="-983.01208"
+     x="162.49158">
+    <tspan
+       id="tspan2287"
+       y="4626.9863"
+       x="10433.492">}</tspan>
+  </text>
+  <path
+     style="fill:#dc2300;stroke:none;visibility:visible"
+     id="path2297"
+     d="M 9800,4740.0037 L 10300,4740.0037 L 10300,4890.0037 L 9800,4890.0037 L 9800,4740.0037 z " />
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2333"
+     y="-984.99658">
+    <tspan
+       id="tspan2335"
+       y="4625.002" />
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2337"
+     y="-974.47498"
+     x="135.40965">
+    <tspan
+       id="tspan2339"
+       y="4635.5234"
+       x="16185.41">(</tspan>
+  </text>
+  <path
+     style="fill:#dc2300;stroke:none;visibility:visible"
+     id="path2349"
+     d="M 15600,4740.0037 L 16100,4740.0037 L 16100,4890.0037 L 15600,4890.0037 L 15600,4740.0037 z " />
+  <text
+     style="font-size:706px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2923"
+     y="-670.14117"
+     x="-3732.8496">
+    <tspan
+       x="284.14868"
+       y="4283.8589"
+       id="tspan2925">↘3</tspan>
+  </text>
+  <text
+     style="font-size:706px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2927"
+     y="-643.57788"
+     x="20804.945">
+    <tspan
+       x="24821.943"
+       y="4310.4209"
+       id="tspan2929">↘3</tspan>
+  </text>
+  <text
+     style="font-size:706px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2931"
+     y="1348.246"
+     x="-1573.897">
+    <tspan
+       x="2443.1008"
+       y="6302.2456"
+       id="tspan2933">↗4</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#ff0000;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2696"
+     y="-832.05444"
+     x="868.39728">
+    <tspan
+       x="25343.398"
+       y="2782.9443"
+       id="tspan2698"
+       style="fill:#ff0000">¨</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1917"
+     y="-876.66895"
+     x="5595.3169">
+    <tspan
+       x="10923.318"
+       y="6700.3301"
+       id="tspan1919">~</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text1397"
+     y="2992.5774"
+     x="1214.8035">
+    <tspan
+       x="22704.803"
+       y="6636.5771"
+       id="tspan1399">;</tspan>
+  </text>
+  <text
+     style="font-size:706px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text17807"
+     y="3333.3433"
+     x="15615.716">
+    <tspan
+       x="19632.715"
+       y="8287.3428"
+       id="tspan17809">↗4</tspan>
+  </text>
+  <text
+     style="font-size:1625.21203613px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2717"
+     y="-8692.0098"
+     x="17332.426">
+    <tspan
+       x="26579.559"
+       y="2712.0967"
+       id="tspan2719">↵</tspan>
+  </text>
+  <text
+     style="font-size:555.85870361px;font-weight:700;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2733"
+     y="-3524.2944"
+     x="22586.414">
+    <tspan
+       x="25749.139"
+       y="376.16476"
+       id="tspan2735">⌫</tspan>
+  </text>
+  <text
+     style="font-size:564px;font-weight:400;fill:#161616;stroke:none;visibility:visible;font-family:Arial embedded"
+     id="text2883"
+     y="-2886.2795"
+     x="1729.7942">
+    <tspan
+       x="23527.795"
+       y="2723.7188"
+       id="tspan2885">ſ</tspan>
+  </text>
+  <text
+     style="font-size:1045.28686523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#161616;stroke:none;visibility:visible;font-family:Arial"
+     id="text2725"
+     y="-2129.9067"
+     x="-6936.561"
+     sodipodi:linespacing="125%">
+    <tspan
+       x="201.68948"
+       y="6673.4028"
+       id="tspan2727"
+       style="font-size:1045.28686523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">⇧</tspan>
+  </text>
+  <text
+     style="font-size:1045.28686523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#161616;stroke:none;visibility:visible;font-family:Arial"
+     id="text2899"
+     y="-2129.9065"
+     x="16207.949"
+     sodipodi:linespacing="125%">
+    <tspan
+       x="23346.201"
+       y="6673.4028"
+       id="tspan2901"
+       style="font-size:1045.28686523px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;font-family:Arial">⇧</tspan>
+  </text>
+</svg>
