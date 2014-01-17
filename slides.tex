@@ -1,12 +1,7 @@
- slides for neo-presention
 \documentclass{beamer}
-
 \usepackage[ngerman]{babel}
 \usepackage[utf8]{inputenc}
 \usepackage[]{color}
-
-
-%\usetheme{Copenhagen}
 \usetheme{Malmoe}
 
 \setbeamercovered{transparent}
@@ -15,11 +10,9 @@
 \setbeamertemplate{sections/subsections in toc}[default]
 
 \usecolortheme{seahorse}
-
 \titlegraphic{\includegraphics[width=4cm]{images/logo.png}}
 
 \title{NEO - Ergonomisch optimiert}
-
 \author[M. Schmidinger]{
     Markus Schmidinger
 }
@@ -66,7 +59,7 @@
   \end{itemize}
 }
 
-\section{Umsetzung}
+\section{Eigenschaften von NEO}
 \frame[<+->]{
   \begin{itemize}
     \item Häufige Verwendung der Grundlinie
@@ -103,23 +96,54 @@
 
 \subsection{QWERTZ - Linux - Deutsch}
 \frame{ 
-  \input{tools/linux.txt_qwertz}
+  \input{tools/linux_ger.txt_qwertz}
 }
 \subsection{NEO - Linux - Deutsch}
 \frame{
-  \input{tools/linux.txt_neo}
+  \input{tools/linux_ger.txt_neo}
 }
 
 \subsection{QWERTZ - Linux - Englisch}
 \frame{ 
   \input{tools/linux_eng.txt_qwertz}
 }
+
 \subsection{NEO - Linux - Englisch}
 \frame{
   \input{tools/linux_eng.txt_neo}
 }
 
+\subsection{QWERTZ - Python - Deutsch}
+\frame{
+  \input{tools/python_ger.txt_qwertz}
+}
 
+\subsection{NEO - Python - Deutsch}
+\frame{
+  \input{tools/python_ger.txt_neo}
+}
+
+\section{Kompatibilität}
+\frame{
+  \begin{itemize}
+    \item Linux
+      \begin{itemize}
+        \item Terminal: setxkbmap de neo
+        \item Systemweite Installation (Xkbmap)
+        \item Auf der Textkonsole
+      \end{itemize}
+    \item Windows 
+      \begin{itemize}
+        \item NeoVars-Treiber (ohne Adminrechte)
+        \item kbdneo-Treiber
+      \end{itemize}
+    \item MacOS
+    \item FreeBSD, OpenBSD, NetBSD
+    \item Commodore 64 (Version 1.0)
+    \item …
+  \end{itemize}
+
+}
 
 \section{Zukunft}
 \frame[<+->]{
@@ -128,6 +152,19 @@
     \item ergonomische Tastaturen
   \end{itemize}
 }
+
+\frame{
+  \begin{figure}[p]
+    \includegraphics[width=6cm]{images/truly}
+  \end{figure}
+}
+
+\frame{
+  \begin{figure}[p]
+    \includegraphics[width=8cm]{images/ergodox}
+  \end{figure}
+}
+
 
 
 
