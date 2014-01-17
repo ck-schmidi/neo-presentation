@@ -129,8 +129,8 @@ endif
 
 clean:
 	$(RM) $(foreach T,$(PDFTARGETS:.pdf=), \
-		$(T).out $(T).pdf $(T).blg $(T).bbl \
+		$(T).out $(T).blg $(T).bbl \
 		$(T).lof $(T).lot $(T).toc $(T).idx \
-		$(T).nav $(T).snm) \
+		$(T).nav $(T).snm $(T).vrb) \
 		$(REVDEPS) $(AUXFILES) $(LOGFILES) \
 		$(EXTRACLEAN)
