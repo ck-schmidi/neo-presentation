@@ -12,7 +12,7 @@
 
 \usecolortheme{seahorse}
 
-\logo{\pgfimage[width=1cm]{images/logo.png}}
+\titlegraphic{\includegraphics[width=4cm]{images/logo.png}}
 
 \title{NEO - Ergonomisch optimiert}
 
@@ -22,13 +22,35 @@
 
 \begin{document}
 
-\frame{
+\begin{frame}[plain]
   \titlepage
+\end{frame}
+
+\frame[plain]{
+  \frametitle{Inhaltsverzeichnis}
+  \tableofcontents
+  [hideallsubsections]
 }
 
-\begin{frame}[fragile]{NEO}{Ergonomisch optimiert}
+%\begin{frame}[fragile]{NEO}{Ergonomisch optimiert}
+%\end{frame}
 
-\end{frame}
+\section{Ebenen}
+\subsection{Ebene 1/2}
+\frame[label=Ebene1_2]{
+  \includegraphics[width=\linewidth]{images/neo_ebene1.png}
+}
+
+\subsection{Ebene 3}
+\frame[label=Ebene3]{
+  \includegraphics[width=\linewidth]{images/neo_ebene3.png}
+}
+
+\subsection{Ebene 4}
+\frame[label=Ebene4]{
+  \includegraphics[width=\linewidth]{images/neo_ebene4.png}
+}
+  
 
 %\frame[<+->][label=Liste]{
 %  \frametitle{"Uberschrift}
