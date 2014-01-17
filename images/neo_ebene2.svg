@@ -11307,7 +11307,7 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Ebene 1"
-     style="display:inline"
+     style="display:none"
      transform="translate(-3.4008115,-283.39115)">
     <text
        x="159.61749"
@@ -12968,7 +12968,7 @@
      inkscape:groupmode="layer"
      id="layer8"
      inkscape:label="Ebene 2"
-     style="display:none"
+     style="display:inline"
      transform="translate(-3.4008115,-283.39115)">
     <text
        x="159.16122"
