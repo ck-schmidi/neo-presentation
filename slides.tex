@@ -35,55 +35,68 @@
   [hideallsubsections]
 }
 
-\section{Allgemein}
+\section{Geschichte}
+
+\subsection{QWERTY}
+\frame[<+->]{
+  \begin{itemize}
+    \item QWERTY/QWERTZ
+    \item entwickelt 1868, zum Schreiben auf mechanischen Tastaturen
+    \item keinerlei ergonomische Optimierung
+  \end{itemize}
+}
+
+\subsection{ergonomische Layouts}
+\frame[<+->]{
+  \begin{itemize}
+    \item 1932: Dvorak 
+    \item optimiert für die englische Sprache
+    \item gibt auch eine deutsche Variante
+  \end{itemize}
+  \begin{figure}[p]
+    \includegraphics[width=8cm]{images/dvorak.png}
+  \end{figure}
+}
+\frame[<+->]{
+  \begin{itemize}
+    \item 2003: de-ergo
+    \item 2004: neo1
+    \item 2010: neo2
+  \end{itemize}
+}
+
+\section{Umsetzung}
+\frame[<+->]{
+  \begin{itemize}
+    \item Häufige Verwendung der Grundlinie
+    \item Buchstabenpaare, die am häufigsten aufeinander folgen auf 2 Hände verteilt
+    \item stärkere Belastung auf Zeige- und Mittelfinger
+    \item Gleiche Verteilung auf linke und rechte Hand
+    \item Optimierung für Deutsch, Englisch, Programmiersprachen, Shell-Befehle
+    \item Sonderzeichen für Programmierung sind gut erreichbar
+    \item mathematische Symbole können einfach eingegeben werden
+    \item Ziffernblock, Steuerkreuz auf eigener Ebene
+  \end{itemize}
+}
+
+\section{Ebenen}
+\subsection{1}\frame[label=Ebene1]{\includegraphics[width=\linewidth]{images/neo_ebene1.png}}
+\subsection{2}\frame[label=Ebene2]{\includegraphics[width=\linewidth]{images/neo_ebene2.png}}
+\subsection{3}\frame[label=Ebene3]{\includegraphics[width=\linewidth]{images/neo_ebene3.png}}
+
+\subsection{4}\frame[label=Ebene4]{\includegraphics[width=\linewidth]{images/neo_ebene4.png}}
+\subsection{5}\frame[label=Ebene5]{\includegraphics[width=\linewidth]{images/neo_ebene5.png}}
+\subsection{6}\frame[label=Ebene6]{\includegraphics[width=\linewidth]{images/neo_ebene6.png}}
+
+\section{Vergleich Homerow}
+\subsection{NEO}
 \frame{
   \input{tools/linux.txt_neo}
 }
 
-\section{Allgemein}
-\frame{
+\subsection{QWERTZ}
+\frame{ 
   \input{tools/linux.txt_qwertz}
 }
-
-
-\section{Ebenen}
-\subsection{1}
-\frame[label=Ebene1]{
-  \includegraphics[width=\linewidth]{./images/neo_ebene1.png}
-}
-
-\subsection{2}
-\frame[label=Ebene2]{
-  \includegraphics[width=\linewidth]{images/neo_ebene2.png}
-}
-
-\subsection{3}
-\frame[label=Ebene3]{
-  \includegraphics[width=\linewidth]{images/neo_ebene3.png}
-}
-
-\subsection{4}
-\frame[label=Ebene4]{
-  \includegraphics[width=\linewidth]{images/neo_ebene4.png}
-}
-
-\subsection{5}
-\frame[label=Ebene5]{
-  \includegraphics[width=\linewidth]{images/neo_ebene5.png}
-}
-
-\subsection{6}
-\frame[label=Ebene6]{
-  \includegraphics[width=\linewidth]{images/neo_ebene6.png}
-}
-  
-%\frame[<+->][label=Liste]{
-%  \frametitle{"Uberschrift}
-%   \begin{itemize}
-%     \item uno
-%     \item duo
-%   \end{itemize}
-%}
-
 
 \end{document}
