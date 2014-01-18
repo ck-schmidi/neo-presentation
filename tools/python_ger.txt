@@ -1,0 +1,5 @@
+Python ist eine universelle, üblicherweise interpretierte höhere Programmiersprache.[2] Ihre Entwurfsphilosophie betont Programmlesbarkeit.[3] Die Programmstruktur wird durch die Einrücktiefe gebildet. Andere Sprachen verwenden hierfür Klammern (C, JavaScript) oder Schlüsselwörter (Pascal).
+
+Python unterstützt mehrere Programmierparadigmen. So werden objektorientierte, aspektorientierte und funktionale Programmierung unterstützt. Wie andere dynamische Sprachen wird Python oft als Skriptsprache genutzt.
+
+Die Sprache hat ein offenes, gemeinschaftsbasiertes Entwicklungsmodell, gestützt durch die gemeinnützige Python Software Foundation, die de facto die Definition der Sprache in der Referenzumsetzung CPython pflegt.
